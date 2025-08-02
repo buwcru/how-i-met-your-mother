@@ -1,0 +1,14 @@
+.register-links svg {
+  width: 90px;
+  height: 90px;
+  flex-shrink: 0;
+  flex-grow: 0;
+}
+
+.register-links a {
+  cursor: pointer;
+}
+
+.auth-container {
+  max-width: 500px;
+}

@@ -1,0 +1,10 @@
+footer .socials-links a {
+  text-decoration: none;
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 50%;
+}
+
+footer .socials-links {
+  gap: 15px;
+}
