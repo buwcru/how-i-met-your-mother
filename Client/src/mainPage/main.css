@@ -1,0 +1,18 @@
+.main-cta {
+  min-height: 400px;
+}
+
+@keyframes fall {
+  from {
+    transform: translateY(-100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.cta-text {
+  animation: fall 1s ease-out;
+}
